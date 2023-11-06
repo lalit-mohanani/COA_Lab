@@ -1679,6 +1679,7 @@ void shader_core_ctx::issue_block2core(kernel_info_t &kernel) {
   init_warps(free_cta_hw_id, start_thread, end_thread, ctaid, cta_size, kernel);
   m_n_active_cta++;
 
+  cta_progress[free_cta_hw_id]=0;
   shader_CTA_count_log(m_sid, 1);
   SHADER_DPRINTF(LIVENESS,
                  "GPGPU-Sim uArch: cta:%2u, start_tid:%4u, end_tid:%4u, "
