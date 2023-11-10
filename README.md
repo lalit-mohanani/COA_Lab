@@ -1,4 +1,4 @@
-KAWS ![](001.png)
+KAWS 
 
 **T E S T I N G**
 
@@ -22,54 +22,8 @@ After running the benchmarks provided in the research paper, we obtained the cor
 
 **Graphs**
 
-The corresponding graphs for lrr vs. kaws and that for lrr vs. kaws+ws are given below:
+The corresponding graphs for lrr vs. kaws and that for lrr vs. kaws+ws are given in pdf below :-   
 
-![](002.png) LRR ![](003.png) KAWS
-
-2,500 ![](004.png)
-
-4\.53%![](005.png)
-
-2,000
-
-1\.78%
-
-1,500
-
-3\.49% 1,000
-
-500
-
-3\.13%
-
-6\.4%
-
-0
-
-Hotspot Pathfinder 3DCV 3MM Average
-
-![](006.png) LRR ![](007.png) KAWS+WS
-
-2,500 ![](008.png)
-
-5\.92%
-
-2,000
-
-3\.98%
-
-1,500
-
-5\.33% 1,000
-
-500
-
-6\.25%
-
-8\.4%
-
-0 
-
-Hotspot Pathfinder 3DCV 3MM Average
+[link](report.pdf)
 
 We observe that kaws provides a susceptible improvement over the standard lrr svcheduler, however that improvement is accentuated by adding warp sharing feature to that as well.
