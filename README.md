@@ -1,4 +1,4 @@
-KAWS ![](/Endsem/001.png)
+KAWS ![](001.png)
 
 **T E S T I N G**
 
@@ -24,11 +24,11 @@ After running the benchmarks provided in the research paper, we obtained the cor
 
 The corresponding graphs for lrr vs. kaws and that for lrr vs. kaws+ws are given below:
 
-![](/Endsem/002.png) LRR ![](/Endsem/003.png) KAWS
+![](002.png) LRR ![](003.png) KAWS
 
-2,500 ![](/Endsem/004.png)
+2,500 ![](004.png)
 
-4\.53%![](/Endsem/005.png)
+4\.53%![](005.png)
 
 2,000
 
@@ -48,9 +48,9 @@ The corresponding graphs for lrr vs. kaws and that for lrr vs. kaws+ws are given
 
 Hotspot Pathfinder 3DCV 3MM Average
 
-![](/Endsem/006.png) LRR ![](/Endsem/007.png) KAWS+WS
+![](006.png) LRR ![](007.png) KAWS+WS
 
-2,500 ![](/Endsem/008.png)
+2,500 ![](008.png)
 
 5\.92%
 
